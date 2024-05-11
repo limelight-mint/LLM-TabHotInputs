@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace PrimeLime.Utility.Tabs
+namespace LLM.Utility.Tabs
 {
     /// <summary>
     /// Unfortunately, Unity doesnt provide system to PRESS TAB and jump to the next input.
